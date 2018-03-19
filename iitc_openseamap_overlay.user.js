@@ -4,6 +4,8 @@
 // @category        Map Tiles
 // @version         1.0.0
 // @description     http://openseamap.org
+// @updateURL	    https://github.com/quantenlight/iitc-plugin-openseamap/raw/master/iitc_openseamap_overlay.user.js
+// @downloadURL     https://github.com/quantenlight/iitc-plugin-openseamap/raw/master/iitc_openseamap_overlay.user.js
 // @match           https://*.ingress.com/intel*
 // @match           http://*.ingress.com/intel*
 // @include         /^https?:\/\/.*ingress\.com\/intel.*/
