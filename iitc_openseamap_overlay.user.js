@@ -6,8 +6,8 @@
 // @description     http://openseamap.org
 // @updateURL	    https://github.com/quantenlight/iitc-plugin-openseamap/raw/master/iitc_openseamap_overlay.user.js
 // @downloadURL     https://github.com/quantenlight/iitc-plugin-openseamap/raw/master/iitc_openseamap_overlay.user.js
-// @match           /^https?:\/\/intel.ingress\.com.*/
-// @include         /^https?:\/\/intel.ingress\.com.*/
+// @match           /^https?:\/\/intel.ingress\.com\/?((intel|mission|\?).*)?$/
+// @include         /^https?:\/\/intel.ingress\.com\/?((intel|mission|\?).*)?$/
 // @grant           none
 // ==/UserScript==
 
